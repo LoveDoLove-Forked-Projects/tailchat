@@ -51,7 +51,7 @@
     "inquirer": "^8.2.2",
     "lodash": "^4.17.21",
     "node-plop": "^0.26.3",
-    "nodemailer": "^6.7.2",
+    "nodemailer": "^6.9.9",
     "ora": "5.4.1",
     "p-all": "2.1.0",
     "p-map": "^4.0.0",
