@@ -11,7 +11,7 @@
   "author": "moonrailgun <moonrailgun@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.18.2",
+    "express": "^4.19.2",
     "fs-extra": "^11.1.0",
     "tailchat-server-sdk": "workspace:^"
   },
