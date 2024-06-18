@@ -54,8 +54,8 @@
     "moleculer-db": "0.8.19",
     "moleculer-repl": "^0.7.2",
     "moment": "^2.29.1",
-    "mongodb": "4.2.1",
-    "mongoose": "6.1.1",
+    "mongodb": "4.17.0",
+    "mongoose": "6.11.3",
     "path-to-regexp": "^6.2.1",
     "ramda-adjunct": "^4.0.0",
     "tailchat-types": "workspace:*"
