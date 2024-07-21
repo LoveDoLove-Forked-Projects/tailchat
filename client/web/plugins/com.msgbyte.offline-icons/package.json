@@ -10,7 +10,7 @@
   },
   "devDependencies": {
     "@babel/parser": "^7.20.5",
-    "@babel/traverse": "^7.20.5",
+    "@babel/traverse": "^7.23.2",
     "@babel/types": "^7.20.5",
     "@types/babel__traverse": "^7.18.3",
     "@types/styled-components": "^5.1.26",
